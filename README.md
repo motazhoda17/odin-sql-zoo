@@ -1,6 +1,6 @@
 # odin-sql-zoo
 
-My study notes for the [SQL Zoo project](https://www.theodinproject.com/lessons/nodejs-sql-zoo) in The Odin Project's Databases course.
+My study notes for the [SQL Zoo project](https://www.theodinproject.com/lessons/node-path-databases-sql-zoo) in The Odin Project's Databases course.
 
 > **Important:** this repo is a *study companion*, not a replacement for the exercises.
 > Do every tutorial yourself on [sqlzoo.net](https://sqlzoo.net/wiki/SQL_Tutorial) first
